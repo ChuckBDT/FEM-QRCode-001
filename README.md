@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/qr-code-landing-page-7-NOGXtROG#comment-633dbddf038087a5ef5c0d4e)
 - Live Site URL: [Here](https://charlesboudrant.com/Projects/Side-projects/Frontend%20Mentors/001%20QRCode/)
 
 ## My process
